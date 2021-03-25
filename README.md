@@ -1,0 +1,2 @@
+# scnovo
+Sistema com Laravel
