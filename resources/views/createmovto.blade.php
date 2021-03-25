@@ -2,5 +2,5 @@
 
 
 @section('content')
-<h1>testando o github</h1>
+<h1>testando o github huhuhu</h1>
 @endsection
